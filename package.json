@@ -8,12 +8,9 @@
     "gulp-livereload": "^3.8.1",
     "gulp-watch": "^4.3.5"
   },
-  "scripts": {
-    "test": "gulp"
-  },
   "repository": {
     "type": "git",
-    "url": "-"
+    "url": "git://github.com/DennisKo/jekyll-livereload-gulp.git"
   },
   "author": "Dennis Kortsch",
   "license": "MIT"
