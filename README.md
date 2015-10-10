@@ -5,9 +5,9 @@ Quick gulp script to enable livereload for Jekyll 2.x.
 ## Install
 (Install Livereload extension)
 
+Download package.json and gulpfile.js into your Jekyll root dir
 
-    $ git clone git@github.com/DennisKo/jekyll-livereload-gulp.git
-    $ cd jekyll-livereload-gulp
+
     $ npm install
 
 ## Usage
